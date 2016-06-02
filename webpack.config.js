@@ -58,6 +58,6 @@ module.exports = {
     })
   ],
   resolve: {
-    extensions: '^_^.js^_^.jsx^_^.css^_^.sass^_^.json'.split('^_^')
+    extensions: ['', '.js', '.jsx', '.css', '.sass', '.json']
   }
 }
