@@ -1,3 +1,4 @@
+#bash npm-install.sh
 npm install react --save-dev
 npm install react-dom --save-dev
 npm install react-router --save-dev
